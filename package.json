@@ -1,0 +1,23 @@
+{
+  "name": "social-settings",
+  "version": "0.0.1",
+  "description": "This is the social setting microservice that authenticates the gamers respective platforms that they are trying to connet to their domain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StormFireTechnologies/SocialSettingService.git"
+  },
+  "keywords": [
+    "Microservice",
+    "Settings"
+  ],
+  "author": "Joshuah J Charney",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/StormFireTechnologies/SocialSettingService/issues"
+  },
+  "homepage": "https://github.com/StormFireTechnologies/SocialSettingService#readme"
+}
